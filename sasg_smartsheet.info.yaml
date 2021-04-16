@@ -1,0 +1,6 @@
+name: SASG Smartsheet Module
+description: Integrates with SASG's Smartsheet account.
+package: Custom
+
+type: module
+core: 8.x
